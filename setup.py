@@ -7,7 +7,6 @@ setup(
     long_description="Command line based kanji tester",
     url="https://github.com/mattclarke/kanji_cmd",
     author="Matt Clarke",
-    keywords="hardware simulation controls",
     packages=find_packages(exclude=["tests", "tests.*"]),
     python_requires=">=3.9.0",
     install_requires=[],
