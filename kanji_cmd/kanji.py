@@ -4,7 +4,7 @@ from dataclasses import dataclass
 @dataclass
 class Kanji:
     kanji: str
-    english: str
+    meaning: str
     readings: str
-    mnemonics: str
+    mnemonic: str
     is_radical: bool

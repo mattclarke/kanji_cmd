@@ -17,7 +17,7 @@ cards = {
         "雨",
         "RAIN",
         "ウ, あめ",
-        "[If you take the U-Boot (ウ) to AMErika (あめ), then you won’t notice the RAIN]. They just know it’s RAINING when the 'one' 'towel' they hang out is dripping wet.",
+        "[If you take the U-Boot (ウ) to AMErika (あめ), then you won’t notice the RAIN]. They know it’s RAINING when the 'one' 'towel' they hang out is dripping wet.",
         True,
     ),
 }

@@ -1,5 +1,6 @@
 import importlib
 import os
+import random
 
 from kanji_cmd.kanji import Kanji
 
@@ -27,3 +28,7 @@ class Repository:
                 if name.startswith("lesson_")
             ]
         )
+
+    def get_kanji(self):
+        index = random.randint(0, len(self.cards))
+        return self.cards[index]
