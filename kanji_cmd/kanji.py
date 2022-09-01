@@ -7,4 +7,4 @@ class Kanji:
     meaning: str
     readings: str
     mnemonic: str
-    is_radical: bool
+    radical: str

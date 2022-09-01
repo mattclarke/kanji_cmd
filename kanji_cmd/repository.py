@@ -30,5 +30,5 @@ class Repository:
         )
 
     def get_kanji(self):
-        index = random.randint(0, len(self.cards))
+        index = random.randint(1, len(self.cards))
         return self.cards[index]

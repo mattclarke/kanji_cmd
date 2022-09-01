@@ -16,7 +16,9 @@ def run():
     mnemonic = (
         card.mnemonic.replace("[", BLUE)
         .replace("]", WHITE)
-        .replace("|", RED)
+        .replace("`", RED)
         .replace(">", WHITE)
     )
     print(f"mnemonic: {mnemonic}")
+    if card.radical:
+        print(f"radical: {card.radical}")
