@@ -67,7 +67,7 @@ cards = {
         "学",
         "STUDY",
         "ガク, まな-ぶ",
-        "In the `schoolhouse>, the 'child>ren STUDY [GArlic COOking (ガク) and practice with a blue pot]",
+        "In the `schoolhouse>, the `child>ren STUDY [GArlic COOking (ガク) and practice with a blue pot]",
         "",
     ),
     11: (
@@ -95,7 +95,7 @@ cards = {
         "金",
         "GOLD",
         "キン, コン, かね, かな",
-        "[The blue `KINg> (キン)] shelters his `drops> of GOLD under his `umbrella>.",
+        "[The blue `KINg> (キン)] shelters his `drop>s of GOLD under his `umbrella>.",
         "Metal",
     ),
     15: (
