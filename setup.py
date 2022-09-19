@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="kanji_cmd",
-    version="0.1.0",
+    version="0.0.1",
     description="Command line based kanji tester",
     long_description="Command line based kanji tester",
     url="https://github.com/mattclarke/kanji_cmd",
