@@ -1,6 +1,5 @@
 import importlib
 import os
-import random
 
 from kanji_cmd.kanji import Kanji
 
@@ -11,7 +10,7 @@ class InvalidLessonException(Exception):
 
 class Repository:
     def __init__(self):
-        self.cards = []
+        self.cards = {}
 
     def load_lesson(self, number):
         if number < 1 or number > self._get_number_of_lessons():
@@ -28,7 +27,3 @@ class Repository:
                 if name.startswith("lesson_")
             ]
         )
-
-    def get_kanji(self):
-        index = random.randint(1, len(self.cards))
-        return self.cards[index]

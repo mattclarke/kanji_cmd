@@ -32,7 +32,7 @@ cards = {
         "KING",
         "オウ",
         # TODO:  heisig for |
-        "The KING rules the `three> entities: heaven, Earth, and humans. He is the vertical force `(|)> binding them together. [The crowd cheers for him, and when he faints, everyone screams OH (オウ), no!]",
+        "The KING binds the `three> entities of state together, so [when he died, everyone screamed OH (オウ), no!]",
         "Jewel",
     ),
     6: (
@@ -123,7 +123,7 @@ cards = {
         "見",
         "SEE",
         "ケン, み-る, み-せる, み-える",
-        "[KEN (ケン) is lying on the floor all covered in blue paint.] All I can SEE with my `eye> is his `human legs> sticking out.",
+        "[KEN (ケン) is lying on the floor all covered in blue paint.] All I can SEE with my `eye>s is his `human legs> sticking out.",
         "",
     ),
     19: (
