@@ -39,6 +39,7 @@ def _show_card(card):
     print(f"mnemonic: {mnemonic}")
     if card.radical:
         print(f"radical: {card.radical}")
+    print()
 
 
 def run():

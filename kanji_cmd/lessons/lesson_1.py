@@ -17,14 +17,14 @@ cards = {
         "雨",
         "RAIN",
         "ウ, あま, あめ",
-        "[If you take the blue U-Boot (ウ) to AMErika (あめ), then you won’t notice the RAIN]. They know it’s RAINING when the `one> `towel> they hang out is covered in `drop>s.",
+        "[By taking the blue U-Boot (ウ) to AMErika (あめ), they avoided the RAIN]. However, the `one> `towel> they left out is covered in `drop>s.",
         "Rain",
     ),
     4: (
         "円",
         "CIRCLE, YEN",
         "エン, まる-い",
-        "Get CIRCULAR YEN coins from a teller's window [and put the special ones in the blue ENvelope (エン)].",
+        "After getting CIRCULAR YEN coins from a teller's window [we put the small ones in the blue ENvelope (エン)].",
         "",
     ),
     5: (
@@ -60,7 +60,7 @@ cards = {
         "花",
         "FLOWER",
         "カ, はな",
-        "[HANA (はな) called to her friend KAli (カ) 'look at how the blue] `FLOWER> has `change>d.'",
+        "[HANA (はな) called to her friend KAli (カ) to show her how the blue] `FLOWER> has `change>d.'",
         "Flower",
     ),
     10: (
@@ -109,7 +109,7 @@ cards = {
         "月",
         "MOON",
         "ガツ, ゲツ, つき",
-        "A pitted crescent MOON shone down on them. [As she GETS (ゲツ) closer to him, she whispers 'Do you have the GUTS (ガツ) to go to the graveyard in the blue moonlight?'].",
+        "Under a crescent MOON, [she GETS (ゲツ) closer to him and whispers 'Do you have the GUTS (ガツ) to go to the graveyard?'].",
         "Flesh",
     ),
     17: (
@@ -130,7 +130,7 @@ cards = {
         "五",
         "FIVE",
         "ゴ, いつ, いつ-つ",
-        "On this strange chair with FIVE legs [the blue cover doubles as a GO (ゴ) board].",
+        "The strange FIVE legged chair has [a blue cover that doubles as a GO (ゴ) board].",
         "",
     ),
     20: (
