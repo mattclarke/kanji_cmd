@@ -67,7 +67,7 @@ cards = {
         "学",
         "STUDY",
         "ガク, まな-ぶ",
-        "In the `schoolhouse>, the `child>ren STUDY [GArlic COOking (ガク) and practice with a blue pot].",
+        "In the `schoolhouse>, the `child>ren STUDY [GArlic COOking (ガク) in a big blue pot].",
         "",
     ),
     11: (
@@ -95,21 +95,21 @@ cards = {
         "金",
         "GOLD",
         "キン, コン, かね, かな",
-        "[The blue] `KINg> [(キン)] shelters his `drop>s of GOLD under his `umbrella>.",
+        "[Under his blue `umbrella> the] `KINg> [(キン)] shelters his `drop>s of GOLD.",
         "Metal",
     ),
     15: (
         "空",
         "EMPTY",
         "クウ, そら, あ-ける, あ-く, から",
-        "I `craft> a `hole> in the roof's `I-beam> to see the EMPTY SKY, but instead [I see a big KUH-loud (クウ) in the blue].",
+        "I `craft> a `hole> above the roof's `I-beam> to see the EMPTY SKY, but instead [I see a big KUH-loud (クウ) in the blue].",
         "",
     ),
     16: (
         "月",
         "MOON",
         "ガツ, ゲツ, つき",
-        "Under a crescent MOON, [she GETS (ゲツ) closer to him and whispers 'Do you have the GUTS (ガツ) to go to the graveyard?'].",
+        "Under a crescent MOON, [as she GETS (ゲツ) closer to the graveyard she whispers 'Do you have the GUTS (ガツ) to go in?'].",
         "Flesh",
     ),
     17: (
