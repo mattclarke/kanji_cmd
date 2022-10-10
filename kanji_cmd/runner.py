@@ -8,16 +8,16 @@ BLUE = "\033[34m"
 RED = "\033[31m"
 
 
-def single_card():
+def single_card(lesson):
     repo = Repository()
-    repo.load_lesson(1)
+    repo.load_lesson(lesson)
     card = repo.cards[random.randint(1, len(repo.cards))]
     _show_card(card)
 
 
-def whole_lesson():
+def whole_lesson(lesson):
     repo = Repository()
-    repo.load_lesson(1)
+    repo.load_lesson(lesson)
     cards = list(repo.cards.keys())
     random.shuffle(cards)
     for i in cards:
@@ -45,6 +45,14 @@ def _show_card(card):
 def run():
     parser = argparse.ArgumentParser()
     parser.add_argument(
+        "lesson",
+        metavar="L",
+        type=int,
+        nargs=1,
+        help="the lesson number",
+    )
+
+    parser.add_argument(
         "-w",
         "--whole",
         action="store_true",
@@ -52,6 +60,6 @@ def run():
     )
     args = parser.parse_args()
     if args.whole:
-        whole_lesson()
+        whole_lesson(int(args.lesson[0]))
     else:
-        single_card()
+        single_card(int(args.lesson[0]))
