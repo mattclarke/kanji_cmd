@@ -10,7 +10,7 @@ cards = {
         "左",
         "LEFT",
         "サ, ひだり",
-        "While wearing a blue SAri (サ), she grabbed the `I-beam> with her LEFT hand and placed it by her `side>. ",
+        "[Dressed in a blue SAri (サ)], she grabbed the `I-beam> with her LEFT hand and placed it by her `side>. ",
         "",
     ),
     3: (
@@ -18,7 +18,7 @@ cards = {
         "THREE",
         "サン, み-つ, み, みっ-つ",
         "The THREE horizontal lines in the [blue SANd (サン) were drawn by ME (み)].",
-        "Rain",
+        "",
     ),
     4: (
         "山",
@@ -52,7 +52,7 @@ cards = {
         "字",
         "CHARACTER",
         "ジ, あざ",
-        "When a `child> is born in the `house> the CHARACTERs for its name are often [written in a GEneric (ジ) blue].",
+        "The `child> in the `house> writes the CHARACTERs for its name over and over [in a GEneric (ジ) blue].",
         "",
     ),
     9: (
@@ -101,7 +101,7 @@ cards = {
         "女",
         "WOMAN",
         "ニョウ, ニョ, ジョ, め, おんな",
-        "The WOMAN spread her arms to [welcome JOe's (ジョ) return out of the blue].",
+        "The WOMAN spread her arms to [grab the blue JO (ジョ)].",
         "Woman",
     ),
     16: (
@@ -122,21 +122,21 @@ cards = {
         "森",
         "FOREST",
         "シン, もり",
-        "Amongst the multiple `tree>s of the FOREST, [MORRIs banged into the branches until his SHINs (シン) were black and blue].",
+        "Running though the FOREST of `tree>s, [MORRIs banged into the branches until his SHINs (シン) were black and blue].",
         "",
     ),
     19: (
         "人",
         "PERSON",
         "ニン, ジン, ひと",
-        "The armless PERSON [works as a blue NINja (ニン) amongst the GINger (ジン)].",
+        "The armless PERSON [works as a GINger (ジン) NINja (ニン) while wearing a blue gi].",
         "Person",
     ),
     20: (
         "水",
         "WATER",
         "スイ, みず",
-        "The alpine WATER [shimmers blue as it flows through SWIss rivers].",
+        "The alpine WATER [shimmers blue as it flows through SWIss (スイ) rivers].",
         "Water",
     ),
 }
