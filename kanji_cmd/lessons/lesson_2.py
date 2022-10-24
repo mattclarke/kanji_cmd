@@ -24,7 +24,7 @@ cards = {
         "山",
         "MOUNTAIN",
         "サン, やま",
-        "This is the triple-peaked MOUNTAIN from which one can see Fuji-SAN (サン)].",
+        "This is the triple-peaked MOUNTAIN from which [one can see Fuji-SAN (サン)]].",
         "Mountain",
     ),
     5: (
@@ -52,7 +52,7 @@ cards = {
         "字",
         "CHARACTER",
         "ジ, あざ",
-        "The `child> in the `house> writes the CHARACTERs for its name over and over [in a GEneric (ジ) blue].",
+        "The `child> in the `house> practices writing CHARACTERs over and over [in a GEneric (ジ) blue ink].",
         "",
     ),
     9: (
@@ -87,7 +87,7 @@ cards = {
         "十",
         "TEN",
         "ジュウ, ジッ, と, とお",
-        "He was cross because hist TEN [TOEs (とお) had turned blue].",
+        "He was cross because his TEN [TOEs (とお) had turned blue].",
         "Needle",
     ),
     14: (
@@ -101,7 +101,7 @@ cards = {
         "女",
         "WOMAN",
         "ニョウ, ニョ, ジョ, め, おんな",
-        "The WOMAN spread her arms to [grab the blue JO (ジョ)].",
+        "[On my 'ONNA (おんな)] I swear the WOMAN tried to [grab the blue JO (ジョ)].",
         "Woman",
     ),
     16: (
@@ -115,28 +115,28 @@ cards = {
         "上",
         "ABOVE",
         "ショウ, ジョウ, のぼ-す, うえ, かみ, あ-がる, のぼ-せる, うわ, あ-げる, のぼ-る",
-        "The `wand> stood upright ABOVE the `floor> and [was SHOwing (ショウ) off in front of 'OOEver (うえ) was present].",
+        "The `wand> stood upright ABOVE the `floor> as [the magician SHOwed (ショウ) off in front of 'OOEver (うえ) was present].",
         "",
     ),
     18: (
         "森",
         "FOREST",
         "シン, もり",
-        "Running though the FOREST of `tree>s, [MORRIs banged into the branches until his SHINs (シン) were black and blue].",
+        "While running though the FOREST of `tree>s, [MORRIs banged his SHIN (シン) so hard it went black and blue].",
         "",
     ),
     19: (
         "人",
         "PERSON",
         "ニン, ジン, ひと",
-        "The armless PERSON [works as a GINger (ジン) NINja (ニン) while wearing a blue gi].",
+        "The armless PERSON still had [ambitions to be a GINger (ジン) NINja (ニン) in a blue gi].",
         "Person",
     ),
     20: (
         "水",
         "WATER",
         "スイ, みず",
-        "The alpine WATER [shimmers blue as it flows through SWIss (スイ) rivers].",
+        "The WATER [shimmers blue as it flows through SWIss (スイ) alps].",
         "Water",
     ),
 }
