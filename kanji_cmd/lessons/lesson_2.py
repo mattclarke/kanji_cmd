@@ -87,7 +87,7 @@ cards = {
         "十",
         "TEN",
         "ジュウ, ジッ, と, とお",
-        "He was cross because his TEN [TOEs (とお) had turned blue].",
+        "The Roman was cross because his TEN [TOEs (とお) had turned blue].",
         "Needle",
     ),
     14: (
@@ -115,7 +115,7 @@ cards = {
         "上",
         "ABOVE",
         "ショウ, ジョウ, のぼ-す, うえ, かみ, あ-がる, のぼ-せる, うわ, あ-げる, のぼ-る",
-        "The `wand> stood upright ABOVE the `floor> as [the magician SHOwed (ショウ) off in front of 'OOEver (うえ) was present].",
+        "The magician made his `wand> stand upright ABOVE the `floor> as [he SHOwed (ショウ) off in front of 'OOEver (うえ) was present].",
         "",
     ),
     18: (
