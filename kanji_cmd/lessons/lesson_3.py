@@ -3,28 +3,28 @@ cards = {
         "正",
         "CORRECT",
         "ショウ, セイ, まさ, ただ-す, ただ-しい",
-        "[Whenever SEIji (セイ) feels blue he dances] on the `ceiling>, done CORRECTly it placed `footprint>s on the `ceiling>.",
+        "[Whenever SEIji (セイ) feels blue he dances] on the `ceiling>, done CORRECTly he places `footprint>s on the `ceiling>.",
         "",
     ),
     2: (
         "生",
         "LIFE, grow, birth",
         "ショウ, セイ,う-む, は-える, き, い-かす, う-まれる, お-う, は-やす, い-きる, なま, い-ける",
-        "A `drop> when they `grow> gives the flowers' enough LIFE [for the SHOW (ショウ) they SEI (セイ)].",
+        "A `drop> when they `grow> gives the flowers enough LIFE [for the SHOW (ショウ) they SEI (セイ)].",
         "Cell",
     ),
     3: (
         "青",
         "BLUE",
         "セイ, ショウ, あお-い, あお",
-        "[They SEI (セイ) that] the `moon> appears like BLUE cheese when `grow>ing [which SHOWs (ショウ) the truth].",
+        "[They SEI (セイ) that] the `moon> appears like BLUE cheese when `grow>ing [which SHOWs (ショウ) they cannot be believed].",
         "",
     ),
     4: (
         "夕",
         "EVENING",
         "セキ, ゆう",
-        "A clear moon indicates that EVENING has arrived. [And YOU (ゆう) celebrate by hitting the slopes at night on our blue SKIs (セキ)].",
+        "A clear moon indicates that EVENING has arrived. [And YOU (ゆう) celebrate with some apres-SKI (セキ)].",
         "Evening",
     ),
     5: (
@@ -45,14 +45,14 @@ cards = {
         "千",
         "THOUSAND",
         "セン, ち",
-        "'A picture of ten eye-droppers are worth a THOUSAND words,' [said the SENator (セン) in the blue suit].",
+        "'A picture of ten eye-droppers is worth a THOUSAND words,' [said the SENator (セン) in the blue suit].",
         "",
     ),
     8: (
         "川",
         "RIVER",
         "セン, かわ",
-        "The stream flows down [and joins the SEN (セン)].",
+        "The three streams flow down and joins the RIVER [SEN (セン)].",
         "Stream/flood",
     ),
     9: (
@@ -66,7 +66,7 @@ cards = {
         "早",
         "QUICK, early",
         "サッ, ソウ, はや-める, はや-まる, はや-い",
-        "Judging from the early `sun>light on the sunflower, it must be `ten>  already. Time goes by QUICKLY [when you are SEWing (ソウ) a blue quilt].",
+        "Judging from the early `sun>light on the sunflower, it must be `ten> already. Time goes by QUICKLY [when you are SEWing (ソウ) a blue quilt].",
         "Sunflower",
     ),
     11: (
@@ -87,7 +87,7 @@ cards = {
         "大",
         "LARGE",
         "タイ, ダイ, おお-きい, おお, おお-いに",
-        "With his arms spread as LARGE as possible, [Welsh DAI (ダイ) looked great in his blue TAI (タイ)].",
+        "[Welsh DAI (ダイ) his blue TAI (タイ)] spreads his arms wide to hug the LARGE St. Bernard dog.",
         "St. Bernard dog",
     ),
     14: (
@@ -101,7 +101,7 @@ cards = {
         "中",
         "MIDDLE, IN",
         "チュウ, ジュウ, なか",
-        "He use the `walking stick> to open the MIDDLE of the `mouth> so he could get [blue CHEWing (チュウ) gum] IN.",
+        "He wedges his `walking stick> IN to open the `mouth> so he could get [blue CHEWing (チュウ) gum] IN the MIDDLE.",
         "",
     ),
     16: (
@@ -115,7 +115,7 @@ cards = {
         "町",
         "TOWN",
         "チョウ, まち",
-        "The `street sign> by the `rice field> pointing to TOWN was [CHOsen (チョウ) to be painted blue].",
+        "For the `street sign> by the `rice field> pointing to TOWN was [blue paint was CHOsen (チョウ)].",
         "",
     ),
     18: (
@@ -137,6 +137,6 @@ cards = {
         "SOIL",
         "ト, ド, つち",
         "`Ten> tonnes of SOIL piled up on the `ground> [was peed on by the DOgs (ド)].",
-        "Water",
+        "Dirt",
     ),
 }
