@@ -24,7 +24,7 @@ cards = {
         "夕",
         "EVENING",
         "セキ, ゆう",
-        "A clear moon indicates that EVENING has arrived. [And YOU (ゆう) celebrate with some apres-SKI (セキ)].",
+        "A clear moon in the EVENING means [YOU (ゆう) can go SKIing (セキ)].",
         "Evening",
     ),
     5: (
@@ -66,14 +66,14 @@ cards = {
         "早",
         "QUICK, early",
         "サッ, ソウ, はや-める, はや-まる, はや-い",
-        "Judging from the early `sun>light on the sunflower, it must be `ten> already. Time goes by QUICKLY [when you are SEWing (ソウ) a blue quilt].",
+        "Judging from the EARLY `sun>light on the sunflower, it must be `ten> already. Time goes by QUICKLY [when you are SEWing (ソウ) a blue quilt].",
         "Sunflower",
     ),
     11: (
         "足",
-        "LEG",
+        "LEG, foot",
         "ソク, あし, た-る, た-りる, た-す",
-        "It took some `mending> after he put his whole LEG in his `mouth> [including his blue SOCKs (ソク)].",
+        "It took some `mending> after he put not just his FOOT but his whole LEG in his `mouth> [blue SOCKs (ソク) and all].",
         "Wooden leg",
     ),
     12: (
@@ -87,7 +87,7 @@ cards = {
         "大",
         "LARGE",
         "タイ, ダイ, おお-きい, おお, おお-いに",
-        "[Welsh DAI (ダイ) his blue TAI (タイ)] spreads his arms wide to hug the LARGE St. Bernard dog.",
+        "[Welsh DAI (ダイ) his blue TAI (タイ)] spreads his arms to hug the LARGE St. Bernard dog.",
         "St. Bernard dog",
     ),
     14: (
