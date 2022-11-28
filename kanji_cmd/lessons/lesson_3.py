@@ -17,7 +17,7 @@ cards = {
         "青",
         "BLUE",
         "セイ, ショウ, あお-い, あお",
-        "[They SEI (セイ) that] the `moon> appears like BLUE cheese when `grow>ing [which SHOWs (ショウ) they cannot be believed].",
+        "[They SEI (セイ) that] the `moon> appears like BLUE cheese when `grow>ing [which SHOWs (ショウ) people believe all sorts of nonsense].",
         "",
     ),
     4: (
@@ -31,7 +31,7 @@ cards = {
         "石",
         "STONE",
         "シャク, セキ, コク, いし",
-        "A great STONE was rolled in front of the mouth of the cliffside cave [by ISHI (いし) on his blue SKI (セキ) mobile].",
+        "[Using his blue SKI (セキ) mobile it was ISHI-peasy (いし)] to move the STONE in front of the mouth of the cliffside cave.",
         "Stone",
     ),
     6: (
@@ -73,7 +73,7 @@ cards = {
         "足",
         "LEG, foot",
         "ソク, あし, た-る, た-りる, た-す",
-        "It took some `mending> after he put not just his FOOT but his whole LEG in his `mouth> [blue SOCKs (ソク) and all].",
+        "The argument took some `mending> after he put not just his FOOT but his whole LEG in his `mouth> [blue SOCKs (ソク) and all].",
         "Wooden leg",
     ),
     12: (
@@ -122,7 +122,7 @@ cards = {
         "天",
         "HEAVENS, sky",
         "テン, あま, あめ",
-        "The `St. Bernard> couldn't see the HEAVENS because of the ceiling [of the blue AMErican (あめ) TENt (テン)].",
+        "The `St. Bernard> couldn't see the HEAVENS because of the ceiling [of the AMErican's (あめ) blue TENt (テン)].",
         "",
     ),
     19: (
