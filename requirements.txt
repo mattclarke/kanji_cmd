@@ -1,5 +1,6 @@
 mock
 pytest
+wheel
 black==22.6.0
 pre-commit
 flake8==5.0.4
