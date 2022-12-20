@@ -59,7 +59,7 @@ cards = {
         "木",
         "TREE, WOOD",
         "モク, ボク, こ, き",
-        "[Gintoki attacked the KEY-hole (き) with his BOKUto (ボク)] made from the WOOD of the golden TREE.",
+        "[GintoKI (き) attacked with his BOKUto (ボク)] made from the WOOD of the golden TREE.",
         "Tree",
     ),
     10: (
