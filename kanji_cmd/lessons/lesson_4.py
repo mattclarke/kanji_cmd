@@ -10,7 +10,7 @@ cards = {
         "日",
         "DAY; SUN",
         "ニチ, ジツ, ひ, か",
-        "[The HEAt (ひ)] of the SUN powers [NIETZSCHE’s (ニチ) blue CAr (か)] during the DAY.",
+        "[The HEAt (ひ)] of the SUN powers [NIETZSCHE’s (ニチ) blue KAr (か)] during the DAY.",
         "Sun/day",
     ),
     3: (
@@ -94,7 +94,7 @@ cards = {
         "力",
         "POWER",
         "リョク, リキ, ちから",
-        "[RICKY (リキ) turned blue] from all the effort of showing off the POWER of his muscles.",
+        "[The ROCK pulls the blue RICKIshaw (リキ)] with all the POWER of his muscles.",
         "Muscle",
     ),
     15: (
@@ -136,7 +136,7 @@ cards = {
         "何",
         "WHAT",
         "カ, なん, なに",
-        "WHAT `can> a `person> say to [a dear blue haired NANNY (なに) driving a KAr (カ)]?",
+        "WHAT `can> a `person> do when stuck behind [a dear blue haired NANNY (なに) driving a KAr (カ)]?",
         "",
     ),
 }
