@@ -66,14 +66,14 @@ cards = {
         "貝",
         "SHELLFISH",
         "かい",
-        "A SHELLFISH totters around on its 'little legs>. [KAInda (かい) cute, I suppose].",
+        "A SHELLFISH with one `eye> totters around on its `little legs>. [KAInda (かい) cute, I suppose].",
         "Clams (money)",
     ),
     11: (
         "外",
         "OUTSIDE",
         "ガイ, ゲ, ほか, はず-れる, そと, はず-す",
-        "It was `evening> OUTSIDE, so what better time to use one's `magic wand> [thought the GUIde (ガイ) in the blue suit].",
+        "It was `evening> OUTSIDE, so what better time to use one's `magic wand> [thought the GUY (ガイ) in the blue suit].",
         "",
     ),
     12: (
