@@ -66,7 +66,7 @@ cards = {
         "貝",
         "SHELLFISH",
         "かい",
-        "A SHELLFISH with one `eye> totters around on its `little legs>. [KAInda (かい) cute, I suppose].",
+        "A SHELLFISH with the big `eye> totters around on its `little legs>. [KAInda (かい) cute, I suppose].",
         "Clams (money)",
     ),
     11: (
@@ -94,14 +94,14 @@ cards = {
         "汽",
         "VAPOUR, steam",
         "キ",
-        "The VAPOUR formed `drops of water> which dripped off of the `hook> and landed on [the blue KImono-clad (キ) person] that was `reclining> on the `floor>.",
+        "The VAPOUR formed `drops of water> which dripped off of the `hook> and landed on [GintoKI (キ)] who was `reclining> on the `floor>.",
         "",
     ),
     15: (
         "記",
         "SCRIBE, record",
         "キ, しる-す",
-        "[The KEY (キ) meaning] of the `words> was SCRIBEd in his `snake>-ish handwriting.",
+        "[GintoKI (キ)] SCRIBEd the meaning of the `words> in his `snake>-ish handwriting.",
         "",
     ),
     16: (
