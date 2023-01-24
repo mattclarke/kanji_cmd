@@ -10,7 +10,7 @@ cards = {
         "夏",
         "SUMMER",
         "ゲ, カ, なつ",
-        "During the SUMMER, they get it into their `head>s that `walking legs> are [quicker than a blue CAr (カ). I think they are NUTS (なつ)].",
+        "During the SUMMER, they get it into their `big head>s that `walking legs> are [quicker than a blue CAr (カ). I think they are NUTS (なつ)].",
         "",
     ),
     3: (
@@ -87,7 +87,7 @@ cards = {
         "顔",
         "FACE",
         "ガン, かお",
-        "You should have seen the `lad>'s FACE when I pointed [the blue GUN (ガン)] at his `head>.",
+        "You should have seen the `lad>'s FACE when I pointed [the blue GUN (ガン)] at his `big head>.",
         "",
     ),
     14: (
