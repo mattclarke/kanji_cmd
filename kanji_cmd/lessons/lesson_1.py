@@ -31,7 +31,6 @@ cards = {
         "王",
         "KING",
         "オウ",
-        # TODO:  heisig for |
         "The KING binds the `three> entities of state together, so [when he died, everyone screamed OH (オウ), no!]",
         "Jewel",
     ),
