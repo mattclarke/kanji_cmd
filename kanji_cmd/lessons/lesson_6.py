@@ -10,14 +10,14 @@ cards = {
         "玉",
         "JEWEL, ball",
         "ギョク, たま",
-        "The `king> favourite JEWEL is like a sparkling `drop> on [TAMA's (たま) collar].",
+        "The `king> favourite JEWEL is like a sparkling `drop> of pure light which [TAMA (たま) picks up].",
         "Jewel",
     ),
     3: (
         "近",
         "NEAR",
         "キン, ちか-い",
-        "When on the `road>, the KINg (キン) carries his blue] `axe>.",
+        "When on the `road>, [the KINg (キン) carries his blue] `axe>.",
         "",
     ),
     4: (
@@ -38,7 +38,7 @@ cards = {
         "元",
         "BEGINNING, origin",
         "ガン, ゲン, もと",
-        "She had the BEGINNING of a [MOTTO (もと) tattooed in blue] on her `two> `human legs> that.",
+        "She had the BEGINNING of a [MOTTO (もと) tattooed in blue] on her `two> `human legs>.",
         "",
     ),
     7: (
@@ -52,14 +52,14 @@ cards = {
         "戸",
         "DOOR",
         "コ, と",
-        "The [blue COat (コ)] DOOR by the `flag> couldn't be opening because it scraped against the `ceiling>.",
+        "The DOOR had a `flag> on it to indicate it couldn't be opening because it scraped against the `ceiling> due to excess COats (コ) of blue paint].",
         "",
     ),
     9: (
         "古",
         "OLD",
         "コ, ふる-す, ふる-い",
-        "He buried his OLD [blue COat (コ)] by the gravestone.",
+        "He was buried in his OLD [blue COat (コ)] under a gravestone.",
         "",
     ),
     10: (
@@ -78,9 +78,9 @@ cards = {
     ),
     12: (
         "語",
-        "STORY, TALE",
+        "LANGUAGE, WORD",
         "ゴ, かた-る, かた-らう",
-        "The TALE [is ready to GO GO GO (ゴ)] so he started moving his `tongue> and the `words> came out.",
+        ".",
         "",
     ),
     13: (
@@ -108,7 +108,7 @@ cards = {
         "光",
         "LIGHT, ray, shine",
         "コウ, ひかり, ひか-る",
-        "The LIGHT rays shine on the `little> `legs> beneath [the blue COAt (コウ)].",
+        "The LIGHT rays shine on the `little> dust-motes `legs> as they dance in their [the blue COAts (コウ)].",
         "",
     ),
     17: (
