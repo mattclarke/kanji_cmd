@@ -80,7 +80,7 @@ cards = {
         "語",
         "LANGUAGE, WORD",
         "ゴ, かた-る, かた-らう",
-        ".",
+        "Once the `WORD>s were spoken `I> was [ready to GO (ゴ)].",
         "",
     ),
     13: (
