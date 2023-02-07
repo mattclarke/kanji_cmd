@@ -52,7 +52,7 @@ cards = {
         "戸",
         "DOOR",
         "コ, と",
-        "The DOOR had a `flag> on it to indicate it couldn't be opening because it scraped against the `ceiling> due to excess COats (コ) of blue paint].",
+        "The DOOR had a `flag> on it to indicate it couldn't be opening because it scraped against the `ceiling> [due to excess COats (コ) of blue paint].",
         "",
     ),
     9: (
@@ -94,7 +94,7 @@ cards = {
         "広",
         "WIDE",
         "コウ, ひろ-める, ひろ-げる, ひろ-まる, ひろ-がる, ひろ-い",
-        "The `cave> was WIDE but he still managed to bang his `elbow> against the wall [ruining his blue COAt (コウ)].",
+        "The `cave> was WIDE but he still managed to brush his `elbow> against the wall [getting paint on his blue COAt (コウ)].",
         "",
     ),
     15: (
