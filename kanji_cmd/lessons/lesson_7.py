@@ -45,14 +45,14 @@ cards = {
         "作",
         "MAKE",
         "サク, サ, つく-る",
-        "The `person> used a 'saw> to MAKE it but [it still SUCKed (サク)].",
+        "The `person> used a `saw> to MAKE it but [it still SUCKed (サク)].",
         "",
     ),
     8: (
         "算",
         "CALCULATION",
         "サン",
-        "Using the `bamboo> and `both hands>, in front of my `eye>s he created an abacus for the CALCULATION [of how much blue SANd (サン) we would need .",
+        "Using the `bamboo> and `both hands>, in front of my `eye>s he created an abacus for the CALCULATION [of how much blue SANd (サン) we would need].",
         "",
     ),
     9: (
@@ -66,7 +66,7 @@ cards = {
         "市",
         "CITY; MARKET",
         "シ, いち",
-        "Dressed only in only a bath `towel> and 'top hat> he rushed to the CITY MARKET [to buy a blue SHEet (シ)].",
+        "Dressed only in only a bath `towel> and `top hat> he rushed to the CITY MARKET [to buy a blue SHEet (シ)].",
         "",
     ),
     11: (
@@ -115,7 +115,7 @@ cards = {
         "社",
         "COMPANY",
         "シャ, やしろ",
-        "The COMPANY that built `alter>s were `dirt> poor, [so couldn't afford a blue rickSHAW (シャ)].",
+        "The COMPANY that built `alter>s were `dirt> poor, [so uses a blue rickSHAW (シャ) to deliver them].",
         "",
     ),
     18: (
