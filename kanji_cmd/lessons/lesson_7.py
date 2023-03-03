@@ -10,7 +10,7 @@ cards = {
         "谷",
         "VALLEY",
         "コク, たに",
-        "[NakaTANI (たに) came from a small] VALLEY where every `mouth> says when `going in> take an `umbrella>.",
+        "[NakaTANI (たに) says when] `going in> to the `mouth> of the VALLEY take an `umbrella>.",
         "",
     ),
     3: (
@@ -66,7 +66,7 @@ cards = {
         "市",
         "CITY; MARKET",
         "シ, いち",
-        "Dressed only in only a bath `towel> and `top hat> he rushed to the CITY MARKET [to buy a blue SHEet (シ)].",
+        "It is MARKET day in the CITY, so dressed only in only a bath `towel> and `top hat> I rushed there [to buy a blue SHEet (シ)].",
         "",
     ),
     11: (
