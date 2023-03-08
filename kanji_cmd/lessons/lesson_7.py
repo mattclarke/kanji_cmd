@@ -38,7 +38,7 @@ cards = {
         "才",
         "GENIUS",
         "サイ",
-        "The GENIUS showed he could do it with one finger and [the crowd SIGHed (サイ) in amazement].",
+        "[The crowd SIGHed (サイ) in amazement] as the GENIUS showed he could do it with just one finger.",
         "",
     ),
     7: (
