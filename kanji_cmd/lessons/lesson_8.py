@@ -3,7 +3,7 @@ cards = {
         "春",
         "SPRINGTIME",
         "シュン, はる",
-        "In the SPRINGTIME, [blue-haired SHUNpei (シュン)] planted the `bonsai> out in the `sun.>",
+        "In the SPRINGTIME, [blue-haired SHUNpei (シュン)] planted the `bonsai> out in the `sun>.",
         "",
     ),
     2: (
@@ -29,7 +29,7 @@ cards = {
     ),
     5: (
         "色",
-        'COLOUR; facial expression or tone; SENSUAL PLEASURE; character, feature; "color" radical',
+        'COLOUR; facial expression or tone',
         "ショク, シキ, いろ",
         "[The SHOCKingly (ショク) blue] COLOUR of the `mosaic> caused view to be spell `bound>.",
         "",
@@ -45,7 +45,7 @@ cards = {
         "心",
         "HEART, mind; center",
         "シン, こころ",
-        "[His SHINs (シン) turned blue] when his HEART stopped beating",
+        "[His SHINs (シン) turned blue] when his HEART stopped beating.",
         "Heart",
     ),
     8: (
@@ -80,14 +80,14 @@ cards = {
         "西",
         "WEST; Spain",
         "セイ, サイ, にし",
-        "[Blue-haired SEIko (セイ) ] put her `legs> through the ceiling when pointing out all `four> directions starting with the WEST",
+        "[Blue-haired SEIko (セイ) ] put her `legs> through the ceiling when pointing out all `four> directions starting with the WEST.",
         "",
     ),
     13: (
         "声",
         "VOICE; sound; reputation",
         "ショウ, セイ, こえ, こわ",
-        "The `samurai> was trying to sell [blue SEIko (セイ) watches] by singing in his beautiful VOICE and waving his `two coloured flag>",
+        "The `samurai> was trying to sell [blue SEIko (セイ) watches] by singing in his beautiful VOICE and waving his `two coloured flag>.",
         "",
     ),
     14: (
@@ -122,7 +122,7 @@ cards = {
         "船",
         "SHIP",
         "セン, ふな, ふね",
-        "[The blue-suited SENator (セン)] stepped from the small `boat> he took from the `gully> onto the SHIP",
+        "[The blue-suited SENator (セン)] stepped from the small `boat> he took from the `gully> onto the SHIP.",
         "",
     ),
     19: (
