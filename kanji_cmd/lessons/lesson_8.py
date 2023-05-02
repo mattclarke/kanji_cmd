@@ -31,7 +31,7 @@ cards = {
         "色",
         'COLOUR; facial expression or tone',
         "ショク, シキ, いろ",
-        "[The SHOCKingly (ショク) blue] COLOUR of the `mosaic> caused view to be spell `bound>.",
+        "[The SHOCKingly (ショク) blue] COLOUR of the `mosaic> was `bound> up in a bag.",
         "",
     ),
     6: (
