@@ -17,7 +17,7 @@ cards = {
         "少",
         "FEW; a little; young",
         "ショウ, すこ-し, すく-ない",
-        "[On the blue SHOUlder (ショウ)] he place a FEW `little> drops with the `eyedropper>.",
+        "[On the blue SHOUlder (ショウ)] he placed a FEW `little> drops with the `eyedropper>.",
         "",
     ),
     4: (
@@ -59,7 +59,7 @@ cards = {
         "親",
         "PARENT; relatives; intimate; friendly",
         "シン, した-しい, おや, した-しむ",
-        "[He banged his SHINs (シン) blue] in the excitement of letting his PARENTs see the `red pepper>.",
+        "[He banged his SHINs (シン) blue] in the excitement of `see>ing the `red pepper> his PARENTs found.",
         "",
     ),
     10: (
@@ -80,7 +80,7 @@ cards = {
         "西",
         "WEST; Spain",
         "セイ, サイ, にし",
-        "[Blue-haired SEIko (セイ) ] put her `legs> through the ceiling when pointing out all `four> directions starting with the WEST.",
+        "[Blue-haired SEIko (セイ) ] put her `legs> through the `ceiling> when pointing out which was WEST from the `four> directions.",
         "",
     ),
     13: (
@@ -94,7 +94,7 @@ cards = {
         "星",
         "STAR; celestial body",
         "セイ, ショウ, ほし",
-        "[The blue SEIko (セイ) watches] could show the position of STARs like the `sun> and also the `life>signs of the wearer.",
+        "[The blue SEIko (セイ) watches] could show the position of the `sun> and STARs, and also the `life>signs of the wearer.",
         "",
     ),
     15: (
@@ -136,7 +136,7 @@ cards = {
         "組",
         "GROUP; class; to FORM, COMBINE; ASSOCIATION",
         "ソ, く-む, くみ",
-        "[Blue-haired KUMIko (くみ)] GROUPED the `thread>s together an placed them on the `shelf>.",
+        "[Blue-haired KUMIko (くみ)] GROUPed the `thread>s together an placed them on the `shelf>.",
         "",
     ),
 }
